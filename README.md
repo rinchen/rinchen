@@ -5,7 +5,10 @@ I'm Joey. Thanks for stopping by my github profile.
 - 🔭 I’m currently working on Data Privacy and Information Security.
 - 🌱 I’m currently learning about blockchain technologies.
 - 👯 I’m looking to collaborate on decentralization.
+- ♥ I love FOSS.
 - 💬 Ask me about GDPR and Data Privacy.
-- 📫 How to reach me: @joey911 on Telegram or LinkedIn (link on the left)
+- 📫 How to reach me: @joey911 on Telegram, [LinkedIn](https://www.linkedin.com/in/rinchen/), and ![Mastodon Follow](https://img.shields.io/mastodon/follow/1242?domain=https%3A%2F%2Fmastodon.sdf.org%2F&style=social)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a software [patent](http://www.freepatentsonline.com/7321852.html) before I realized that I'm not a fan of software patents.
+- ⚡ Fun fact: I have a software [patent](http://www.freepatentsonline.com/7321852.html). I obtained this before I realized that I'm not a fan of software patents.
+
+![Joey's's github stats](https://github-readme-stats.vercel.app/api?username=rinchen&show_icons=true)
