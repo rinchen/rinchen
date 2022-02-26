@@ -3,8 +3,6 @@
 I'm Joey. Thanks for stopping by my GitHub profile.
 
 - 🔭 I’m currently working in the Data Privacy and Information Security areas. [LinkedIn](https://www.linkedin.com/in/rinchen/)
-- 🌱 I’m currently playing with blockchain technologies.
-- 👯 I’m looking to collaborate on decentralization.
 - ♥ I love FOSS.
 - 💬 Ask me about GDPR and Data Privacy.
 - 📫 How to reach me: [Telegram](https://telegram.me/joey911) or [Threema](https://threema.id/T5R278PZ) to start with.
