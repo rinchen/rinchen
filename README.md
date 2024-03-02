@@ -12,6 +12,4 @@ I'm Joey. Thanks for stopping by my GitHub profile.
 - 👨‍🏫 I have a Ph.D. and LL.M and occasionally teach at [Front Range CC](https://frontrange.edu/).
 - ⚡ Fun fact: I have a software [patent](http://www.freepatentsonline.com/7321852.html). I obtained this before I realized that I'm not a fan of software patents.
 
-![Joey's's github stats](https://github-readme-stats.vercel.app/api?username=rinchen&show_icons=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=rinchen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
