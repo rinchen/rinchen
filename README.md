@@ -10,6 +10,6 @@ I'm Joey. Thanks for stopping by my GitHub profile.
 - 🗞 Follow me on W3C's [Mastodon](https://w3c.social/@jjs).
 - 😄 Pronouns: he/him/his
 - 👨‍🏫 I have a Ph.D. and LL.M and occasionally teach at [Front Range CC](https://frontrange.edu/).
-- ⚡ Fun fact: I have a software [patent](http://www.freepatentsonline.com/7321852.html). I obtained this before I realized that I'm not a fan of software patents.
+- ⚡ Fun fact: I have a software [patent](https://www.lens.org/lens/patent/016-687-789-035-475/frontpage). I obtained this before I realized that I'm not a fan of software patents.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rinchen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
