@@ -11,5 +11,4 @@ I'm Joey. Thanks for stopping by my GitHub profile.
 - 😄 Pronouns: he/him/his
 - 👨‍🏫 I have a Ph.D. and LL.M. and occasionally teach at a few schools. [Sigma Xi](https://www.sigmaxi.org/) life member. [Phi Alpha Delta](https://www.pad.org/) life alumni member.
 - ⚡ Fun fact: I have a software [patent](https://www.lens.org/lens/patent/016-687-789-035-475/frontpage). I obtained this before I realized that I'm not a fan of software patents.
-
-[//]: [![trophy](https://github-profile-trophy.vercel.app/?username=rinchen&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=rinchen)](https://github.com/ryo-ma/github-profile-trophy)
