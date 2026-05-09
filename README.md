@@ -9,6 +9,6 @@ I'm Joey — a privacy and security practitioner, researcher, and occasional aca
 - 📫 Reach me via [Threema](https://threema.id/T5R278PZ) or [Delta Chat](https://i.delta.chat/#9C9D4D79603F35D4103171864907F2EDCAD91F96&a=encrypted%40nine.testrun.org&n=Joey%20%40%20Testrun&i=gtH1-WV0sxy&s=-FYwd3mJD6G) (both end-to-end encrypted).
 - 🗞 Follow me on [Mastodon](https://infosec.exchange/@jjs).
 - 😄 Pronouns: he/him
-- ⚡ I hold a software [patent](https://www.lens.org/lens/patent/016-687-789-035-475/frontpage) — obtained before I soured on the idea of software patents.
+- ⚡ I hold an automatic speech recognition [patent](https://www.lens.org/lens/patent/016-687-789-035-475/frontpage) — obtained before I soured on the idea of software patents.
 
 *Why "Rinchen"? It was my IRC handle back in the day, and by the time I thought to change it here, all the good alternatives were taken.*
