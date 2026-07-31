@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Joey — a privacy and security practitioner, researcher, and occasional academic. I hold a Ph.D. and LL.M., teach at a few schools, and am a life member of [Sigma Xi](https://www.sigmaxi.org/) and [Phi Alpha Delta](https://www.pad.org/).
+I'm Joey — a privacy and security practitioner, researcher, and occasional academic. I hold a Ph.D. and LL.M., teach at a few schools from time to time, and am a life member of [Sigma Xi](https://www.sigmaxi.org/) and [Phi Alpha Delta](https://www.pad.org/).
 
 - 🔭 Currently working in Data Privacy, InfoSec, and GRC.
 - 🤝 Contributing to the [W3C Privacy Working Group](https://github.com/w3c).
